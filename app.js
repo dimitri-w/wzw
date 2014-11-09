@@ -1,1 +1,1 @@
-var d='dimitri';
+var obj='This is a object!';
